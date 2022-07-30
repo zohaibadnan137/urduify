@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Urduify</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+</head>
+
+<body>
+  <div class="bg">
+
+    <div class="container">
+      <div class="wrapper">
+
+        <div class="text-input">
+          <textarea spellcheck="false" class="from-text" placeholder="Enter text"></textarea>
+          <textarea spellcheck="false" readonly disabled class="to-text" placeholder="Translation"></textarea>
+        </div>
+
+        <ul class="controls">
+          <li class="row from">
+            <select></select>
+          </li>
+
+          <li class="exchange"><i class="fas fa-exchange-alt"></i></li>
+
+          <li class="row to">
+            <select></select>
+          </li>
+        </ul>
+
+      </div>
+
+      <button>Translate</button>
+    </div>
+
+  </div>
+
+  <script src="js/languages.js"></script>
+  <script src="js/script.js"></script>
+
+</body>
+
+</html>
