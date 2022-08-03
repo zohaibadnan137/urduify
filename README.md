@@ -16,7 +16,9 @@ Urduify is a translator that can translate Roman Urdu to Urdu and vice versa.
 We created this translator during our internship at [Folio3 Software](https://www.linkedin.com/company/folio3/).
 ## Screenshots
 
-![Screenshot](https://user-images.githubusercontent.com/82387424/181917992-0f5b67ec-925d-471d-95ce-78d95bba3b1b.png)
+![Screenshot](https://user-images.githubusercontent.com/82387424/182638193-02ddb8a9-e23a-4a14-8a33-275ac5a0cc07.png)
+![Screenshot](https://user-images.githubusercontent.com/82387424/182638323-ff6ce03c-3415-4d3b-af0a-ff9814ec9e5d.png)
+
 
 
 ## How It Works
